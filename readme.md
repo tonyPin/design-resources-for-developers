@@ -293,6 +293,7 @@
 | [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
 | [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
+| [Free Images Pexels](https://www.pexels.com/)| Free Images Quality |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
